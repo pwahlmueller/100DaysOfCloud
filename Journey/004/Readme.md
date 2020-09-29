@@ -1,52 +1,27 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![placeholder image](https://www.sunspotrealty.com/wp-content/uploads/2020/02/4-rainy-day-1.jpg)
+
+# More Azure
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+To be honest, there where some Azure stuff in the last days, but did not wrote anything down. And yes, it's a little bit rainy today.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Step 1 — Bicep - an ARM DSL
 
-### Step 1 — Summary of Step
+Ignite Azure recording from Mark Russinovich  link [Link](https://myignite.microsoft.com/sessions/40aca11c-8e28-4914-a6d8-b3a7efb4eee1)
 
-![Screenshot](https://via.placeholder.com/500x300)
+Got a hint - should do something for my Bicep skills.
 
-### Step 1 — Summary of Step
+* [Bicep - an ARM DSL](https://aka.ms/bicep)
+* [Set up Bicep](https://github.com/Azure/bicep/blob/master/docs/installing.md)
+* [Bicep Template](https://github.com/Azure/bicep/blob/master/docs/tutorial/01-simple-template.md)
+* [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 
-![Screenshot](https://via.placeholder.com/500x300)
+But be aware, it's new - so no IntelliSense and minimal resource schema validation.
 
-### Step 3 — Summary of Step
+### Step 2 - gRPC
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+* [REST vs gRPC](https://code.tutsplus.com/tutorials/rest-vs-grpc-battle-of-the-apis--cms-30711)
