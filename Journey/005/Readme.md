@@ -1,52 +1,28 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+![placeholder image](https://images-cdn.fantasyflightgames.com/filer_public/73/c9/73c90343-79c8-4ba5-959e-ecfedca8f4ae/jme01_slider_anc.png)
+
+# The New Subscription (and more)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+We had to add a new subscription to a tenent - not so easy, because we wanted to have an EA enrollment linked to that subscription.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+So the first thing is, that we have several enrollments (see https://ea.azure.com) and several tenents on https://portal.azure.com.
 
-## Cloud Research
+What do you have to do?
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+1. [Sign in to the EA Portal](https://eq.azure.com)
+2. Add a New Account, which is able to create a subscription in the tenent of your choice on [Azure](portal.azure.com) or use an existing one.
+3. Click add Subscription on the [EA Portal](https://eq.azure.com)
+4. Make sure you landed in the right Azure subscription.
+5. Select offen "Microsoft Azure Enterprise"
+6. Check the boxes - and register.
+7. Done
 
-## Try yourself
+## Cost Tool
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Seems to be a nice [cost tool](https://github.com/Azure/SAP-on-Azure-Scripts-and-Utilities/tree/master/Costmanagement-Dashboard) - but did not have a glance yet.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Nice Made it to get all ad-users of multiple tenants. Think I'll do a blog post about that soon.
