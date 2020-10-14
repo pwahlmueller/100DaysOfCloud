@@ -7,7 +7,7 @@
 
 We had to add a new subscription to a tenent - not so easy, because we wanted to have an EA enrollment linked to that subscription.
 
-## Use Case
+## The New Subscription
 
 So the first thing is, that we have several enrollments (see https://ea.azure.com) and several tenents on https://portal.azure.com.
 
@@ -24,5 +24,7 @@ What do you have to do?
 ## Cost Tool
 
 Seems to be a nice [cost tool](https://github.com/Azure/SAP-on-Azure-Scripts-and-Utilities/tree/master/Costmanagement-Dashboard) - but did not have a glance yet.
+
+## Tenants
 
 Nice Made it to get all ad-users of multiple tenants. Think I'll do a blog post about that soon.
