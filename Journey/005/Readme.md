@@ -13,7 +13,7 @@ So the first thing is, that we have several enrollments (see https://ea.azure.co
 
 What do you have to do?
 
-1. [Sign in to the EA Portal](https://eq.azure.com)
+1. [Sign in to the EA Portal](https://ea.azure.com)
 2. Add a New Account, which is able to create a subscription in the tenent of your choice on [Azure](portal.azure.com) or use an existing one.
 3. Click add Subscription on the [EA Portal](https://eq.azure.com)
 4. Make sure you landed in the right Azure subscription.

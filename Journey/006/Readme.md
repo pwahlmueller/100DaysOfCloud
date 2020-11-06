@@ -4,7 +4,7 @@
 
 ## Azure Cloud Shell
 
-Add Azure Cloud Shell to VSCode. 
+Add Azure Cloud Shell to VSCode.
 
 ## Just a few admin portals
 
