@@ -38,7 +38,7 @@ If you'd like to go to the cloud, you've to shoot for the stars.
 - [ ] ☁️ 4 > [Fourth Day - Biceps and gRPC](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [The Journey begins - The new Subscription](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Preparing Infrastructure](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 7 > [Adding Cost to PRTG & checkling belonging Tenants](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
