@@ -1,6 +1,6 @@
 **Add a cover photo like:**
 
-![placeholder image](https://via.placeholder.com/1200x600)
++++ No photo today +++
 
 # How to manage your cloud account
 
