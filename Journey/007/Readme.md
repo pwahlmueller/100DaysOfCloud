@@ -1,7 +1,3 @@
-**Add a cover photo like:**
-
-+++ No photo today +++
-
 # How to manage your cloud account
 
 ![Adding Cost to PRTG](https://kb.paessler.com/en/topic/88625-how-do-i-obtain-credentials-and-create-custom-roles-for-the-microsoft-azure-sensors)
