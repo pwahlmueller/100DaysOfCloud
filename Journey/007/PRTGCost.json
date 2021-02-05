@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "roleName": "PRTG Microsoft Azure Subscription Cost Sensor",
+        "description": "This role has the required permissions to use the Microsoft Azure Subscription Cost sensor of PRTG.",
+        "assignableScopes": [],
+        "permissions": [
+            {
+                "actions": [
+                    "Microsoft.Consumption/*/read",
+                    "Microsoft.Consumption/*/action",
+                    "Microsoft.CostManagement/query/read",
+                    "Microsoft.Billing/*/read"
+                ],
+                "notActions": [],
+                "dataActions": [],
+                "notDataActions": []
+            }
+        ]
+    }
+}
