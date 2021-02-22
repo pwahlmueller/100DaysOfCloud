@@ -6,3 +6,4 @@ With Azure Lab Services you can do virtual classrooms. And there is a nice Teams
 
 * [Newest Infos](https://aka.ms/azlabs-blog)
 * [Feedback](https://aka.ms/azlabs-forum)
+* [REST API](https://docs.microsoft.com/en-us/rest/api/labservices/)
