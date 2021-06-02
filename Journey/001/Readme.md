@@ -4,6 +4,8 @@
 
 Need learning and to improve the general understanding of Azure
 
+Test
+
 ## Cloud Research
 
 ### General learning and certification
