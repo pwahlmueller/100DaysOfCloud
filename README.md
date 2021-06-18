@@ -40,8 +40,8 @@ If you'd like to go to the cloud, you've to shoot for the stars.
 - [ ] ☁️ 6 > [Preparing Infrastructure](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Adding Cost to PRTG & checkling belonging Tenants](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Azure Lab Services](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 9 > [Setting up a New Phish Simulation Program - Part One](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Use Microsoft Graph API with PowerShell – Part 1](Journey/010/Readme.md)
 
 ## Walking down the road
 
